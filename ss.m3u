@@ -1,0 +1,132 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="-1", Turkish:FLASH TV TÃœRKIYE 24SAAT YAYIN
+
+http://yayin11.canlitv.info:1935/8158/8158/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Turkish:CNN Turk
+
+http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1055", TRT 1
+
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="1054", TRT AVAZ
+
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+
+#EXTINF:0 type="stream" channelId="1092", TRT BELGESEL
+
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+
+#EXTINF:0 type="stream" channelId="1080", TRT Haber
+
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", TRT MUZIK
+
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+#EXTINF:0 type="stream" channelId="1095", TRT SPOR HD
+
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", TRT TURK
+
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", TRT 3 - TBMM TV
+
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", TRT COCUK
+
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="3091", TRT WORLD
+
+http://si.trtcdn.com/tv/webtvizletme/trtworld_1/chunklist_w1187988455.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Kanal D HD hls
+
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1047", Fox TV
+
+http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="119", Bloomberg
+
+http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/chunklist_w668226506_b848000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", TV2
+
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="1057", Kanal 7
+
+http://51.15.4.69/live/kanal7Live/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", S
+
+http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Dream Türk
+
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Show Max
+
+http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", NRT 2
+
+http://nrttv.iptv-playoutcenter.de:1935/nrt2/nrt2.stream_1/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Kanal 24
+
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Semerkand
+
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+
+#EXTINF:0 type="stream" channelId="1082", Beyaz TV
+
+http://37.77.2.234:1935/beyaz/live/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Number One Türk
+
+http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", CAY TV
+
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+
+#EXTINF:0 type="stream" channelId="1127", KANAL A
+
+http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", AKSU TV
+
+http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", SKYTurk 360
+
+http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Halk Haber TV
+
+http://yayin3.canlitv.com:1935/canlitv/halktv/chunklist_w1247168277.m3u8?
+
+#EXTINF:0 type="stream" channelId="1045", SHOW TV
+
+#EXTSIZE: Medium
+
+https://mn-nl.mncdn.com/showtv_nl/smil:showtv.smil/chunklist_b848000.m3u8?e=1520532117&st=G8qmNGx1SMUYXUsmgHjR3g&__mn_sid=17225385979244933242
+
+#EXTINF:0 type="stream" channelId="2550", ATV HD
+
+http://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=bfrijOBjAIW2rmGCPeVkjA&e=1520557924
+
